@@ -16,7 +16,7 @@ body {
 
 .container {
     max-width: 1400px;
-    margin: 0 auto;
+    margin: 30px;
     padding: 10px 20px;
 }
 
@@ -1839,4 +1839,5 @@ nav {
     }
 
 }
+
 
