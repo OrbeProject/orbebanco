@@ -10,10 +10,12 @@ body {
     background: linear-gradient(135deg, #f8f9ff 0%, #e8f0ff 100%);
     min-height: 100vh;
     overflow-x: hidden;
+    max-width: auto;
+    position: relative;
 }
 
 .container {
-    max-width: 1200px;
+    max-width: 1400px;
     margin: 0 auto;
     padding: 10px 20px;
 }
@@ -1837,3 +1839,4 @@ nav {
     }
 
 }
+
